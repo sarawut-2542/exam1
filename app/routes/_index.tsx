@@ -155,7 +155,7 @@ const resources = [
     ),
   },
   {
-    href: "/addMat",
+    href: "/L02_026740491607-9",
     text: "Add Material",
     icon: (
       <svg
